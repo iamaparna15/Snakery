@@ -51,10 +51,6 @@ Snakery is a classic Snake game built using Python Flask for the backend and HTM
 - Try to collect as many food items as possible to grow your snake and increase your score.
 - Avoid running into the walls or the snake itself.
 
-## Video Tutorial
-
-Below is a video tutorial to help you get started with Snakery:
-<img src ="snake.mp4">
-
 ```html
+
 
