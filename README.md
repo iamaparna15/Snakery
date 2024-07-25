@@ -54,9 +54,10 @@ Snakery is a classic Snake game built using Python Flask for the backend and HTM
 ## Video Tutorial
 
 Below is a video tutorial to help you get started with Snakery:
-
-```html
 <video width="600" controls>
   <source src="snake.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+```html
+
